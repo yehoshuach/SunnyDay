@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <stats>
+    <HP>30</HP>
+    <Attack>5</Attack>
+    <Defence>4</Defence>
+    <Velocity>
+      <X>20.0f</X>
+      <Y>0.0f</Y>
+    </Velocity>
+  </stats>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String"></Asset>
+</XnaContent>
